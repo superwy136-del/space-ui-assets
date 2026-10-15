@@ -1,0 +1,457 @@
+{
+  "format": "space-ui-assets/1",
+  "generated_on": "2026-10-16",
+  "generator": "OpenAI built-in image generation",
+  "files": [
+    {
+      "id": "cover",
+      "file": "opening-horizon-v2.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1989872,
+      "sha256": "78cb0c4d30872013dd019672043b693badfc29966d2116ee40984a8a6acfa405"
+    },
+    {
+      "id": "micro",
+      "file": "hulls-micro-v2.png",
+      "width": 1774,
+      "height": 887,
+      "bytes": 2412857,
+      "sha256": "d5e94ae003852b212a5e4d9696da236e8112a95f63cdbc9c7da8357f85183906"
+    },
+    {
+      "id": "small",
+      "file": "hulls-small-v2.png",
+      "width": 1774,
+      "height": 887,
+      "bytes": 2382232,
+      "sha256": "5c60708e78941b3cf228e31a219979bc33203c6ec7a34898f3811be7826e3101"
+    },
+    {
+      "id": "medium",
+      "file": "hulls-medium-v2.png",
+      "width": 1774,
+      "height": 887,
+      "bytes": 2534807,
+      "sha256": "950e77a9bb1a6ab42260cd2b5dca49e030c8de9a3f58db247d1b379fc83b7c23"
+    },
+    {
+      "id": "large",
+      "file": "hulls-large-v2.png",
+      "width": 1774,
+      "height": 887,
+      "bytes": 2592771,
+      "sha256": "97b3bde3995bd48b9e042c70314e565b99896070c08534472a1ec407504fc231"
+    },
+    {
+      "id": "giant",
+      "file": "hulls-giant-v3.png",
+      "width": 1774,
+      "height": 887,
+      "bytes": 2159992,
+      "sha256": "e804a5ff7778a1f2e7ed280630ed7b3c73f0ae4330a456af098d03c1761dd989"
+    }
+  ],
+  "hulls": [
+    {
+      "id": "micro.1",
+      "size": "微型",
+      "type": "通用船",
+      "file": "hulls-micro-v2.png",
+      "column": 0,
+      "row": 0,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "micro.2",
+      "size": "微型",
+      "type": "运输船",
+      "file": "hulls-micro-v2.png",
+      "column": 1,
+      "row": 0,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "micro.3",
+      "size": "微型",
+      "type": "游轮",
+      "file": "hulls-micro-v2.png",
+      "column": 2,
+      "row": 0,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "micro.4",
+      "size": "微型",
+      "type": "采矿船",
+      "file": "hulls-micro-v2.png",
+      "column": 3,
+      "row": 0,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "micro.5",
+      "size": "微型",
+      "type": "工程船",
+      "file": "hulls-micro-v2.png",
+      "column": 0,
+      "row": 1,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "micro.6",
+      "size": "微型",
+      "type": "探索船",
+      "file": "hulls-micro-v2.png",
+      "column": 1,
+      "row": 1,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "micro.7",
+      "size": "微型",
+      "type": "猎船",
+      "file": "hulls-micro-v2.png",
+      "column": 2,
+      "row": 1,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "micro.8",
+      "size": "微型",
+      "type": "突击船",
+      "file": "hulls-micro-v2.png",
+      "column": 3,
+      "row": 1,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "small.1",
+      "size": "小型",
+      "type": "通用船",
+      "file": "hulls-small-v2.png",
+      "column": 0,
+      "row": 0,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "small.2",
+      "size": "小型",
+      "type": "运输船",
+      "file": "hulls-small-v2.png",
+      "column": 1,
+      "row": 0,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "small.3",
+      "size": "小型",
+      "type": "游轮",
+      "file": "hulls-small-v2.png",
+      "column": 2,
+      "row": 0,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "small.4",
+      "size": "小型",
+      "type": "采矿船",
+      "file": "hulls-small-v2.png",
+      "column": 3,
+      "row": 0,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "small.5",
+      "size": "小型",
+      "type": "工程船",
+      "file": "hulls-small-v2.png",
+      "column": 0,
+      "row": 1,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "small.6",
+      "size": "小型",
+      "type": "探索船",
+      "file": "hulls-small-v2.png",
+      "column": 1,
+      "row": 1,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "small.7",
+      "size": "小型",
+      "type": "猎船",
+      "file": "hulls-small-v2.png",
+      "column": 2,
+      "row": 1,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "small.8",
+      "size": "小型",
+      "type": "突击船",
+      "file": "hulls-small-v2.png",
+      "column": 3,
+      "row": 1,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "medium.1",
+      "size": "中型",
+      "type": "通用船",
+      "file": "hulls-medium-v2.png",
+      "column": 0,
+      "row": 0,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "medium.2",
+      "size": "中型",
+      "type": "运输船",
+      "file": "hulls-medium-v2.png",
+      "column": 1,
+      "row": 0,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "medium.3",
+      "size": "中型",
+      "type": "游轮",
+      "file": "hulls-medium-v2.png",
+      "column": 2,
+      "row": 0,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "medium.4",
+      "size": "中型",
+      "type": "采矿船",
+      "file": "hulls-medium-v2.png",
+      "column": 3,
+      "row": 0,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "medium.5",
+      "size": "中型",
+      "type": "工程船",
+      "file": "hulls-medium-v2.png",
+      "column": 0,
+      "row": 1,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "medium.6",
+      "size": "中型",
+      "type": "探索船",
+      "file": "hulls-medium-v2.png",
+      "column": 1,
+      "row": 1,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "medium.7",
+      "size": "中型",
+      "type": "猎船",
+      "file": "hulls-medium-v2.png",
+      "column": 2,
+      "row": 1,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "medium.8",
+      "size": "中型",
+      "type": "突击船",
+      "file": "hulls-medium-v2.png",
+      "column": 3,
+      "row": 1,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "large.1",
+      "size": "大型",
+      "type": "通用船",
+      "file": "hulls-large-v2.png",
+      "column": 0,
+      "row": 0,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "large.2",
+      "size": "大型",
+      "type": "运输船",
+      "file": "hulls-large-v2.png",
+      "column": 1,
+      "row": 0,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "large.3",
+      "size": "大型",
+      "type": "游轮",
+      "file": "hulls-large-v2.png",
+      "column": 2,
+      "row": 0,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "large.4",
+      "size": "大型",
+      "type": "采矿船",
+      "file": "hulls-large-v2.png",
+      "column": 3,
+      "row": 0,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "large.5",
+      "size": "大型",
+      "type": "工程船",
+      "file": "hulls-large-v2.png",
+      "column": 0,
+      "row": 1,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "large.6",
+      "size": "大型",
+      "type": "探索船",
+      "file": "hulls-large-v2.png",
+      "column": 1,
+      "row": 1,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "large.7",
+      "size": "大型",
+      "type": "猎船",
+      "file": "hulls-large-v2.png",
+      "column": 2,
+      "row": 1,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "large.8",
+      "size": "大型",
+      "type": "突击船",
+      "file": "hulls-large-v2.png",
+      "column": 3,
+      "row": 1,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "giant.1",
+      "size": "巨型",
+      "type": "通用船",
+      "file": "hulls-giant-v3.png",
+      "column": 0,
+      "row": 0,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "giant.2",
+      "size": "巨型",
+      "type": "运输船",
+      "file": "hulls-giant-v3.png",
+      "column": 1,
+      "row": 0,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "giant.3",
+      "size": "巨型",
+      "type": "游轮",
+      "file": "hulls-giant-v3.png",
+      "column": 2,
+      "row": 0,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "giant.4",
+      "size": "巨型",
+      "type": "采矿船",
+      "file": "hulls-giant-v3.png",
+      "column": 3,
+      "row": 0,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "giant.5",
+      "size": "巨型",
+      "type": "工程船",
+      "file": "hulls-giant-v3.png",
+      "column": 0,
+      "row": 1,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "giant.6",
+      "size": "巨型",
+      "type": "探索船",
+      "file": "hulls-giant-v3.png",
+      "column": 1,
+      "row": 1,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "giant.7",
+      "size": "巨型",
+      "type": "猎船",
+      "file": "hulls-giant-v3.png",
+      "column": 2,
+      "row": 1,
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "giant.8",
+      "size": "巨型",
+      "type": "突击船",
+      "file": "hulls-giant-v3.png",
+      "column": 3,
+      "row": 1,
+      "columns": 4,
+      "rows": 2
+    }
+  ]
+}
